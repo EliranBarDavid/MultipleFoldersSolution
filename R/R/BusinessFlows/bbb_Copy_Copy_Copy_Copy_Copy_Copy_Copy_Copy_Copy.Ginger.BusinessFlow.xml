@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Ginger Repository Item created with version: 2.4.0.0-->
+<GingerCore.BusinessFlow Active="False" Created="8/8/2017 1:22:34 PM" CreatedBy="eliranba" Description="Q" EnableActivitiesVariablesDependenciesControl="False" Guid="4b1b237c-0f27-4f93-8f8b-cf9d3ae5ca1d" LastUpdate="8/8/2017 1:26:38 PM" LastUpdateBy="eliranba" Name="bbb_Copy_Copy_Copy_Copy_Copy_Copy_Copy_Copy_Copy" ParentGuid="8247b147-d65d-4db2-9c4e-ec2b819e9758" Source="Ginger" Version="11">
+<Activities>
+<GingerCore.Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="Activity 1" AutomationStatus="Development" Created="8/8/2017 1:22:34 PM" CreatedBy="eliranba" EnableActionsVariablesDependenciesControl="False" Guid="c6524486-9898-4622-b85d-9e73576049cc" LastUpdate="1/1/0001 12:00:00 AM" Mandatory="False" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" TargetApplication="MyWebApp" Version="0">
+<Acts>
+</Acts>
+
+<Tags>
+</Tags>
+
+<Variables>
+</Variables>
+
+<VariablesDependencies>
+</VariablesDependencies>
+</GingerCore.Activity>
+</Activities>
+
+<ActivitiesGroups>
+</ActivitiesGroups>
+
+<Tags>
+</Tags>
+
+<TargetApplications>
+<GingerCore.Platforms.TargetApplication AppName="MyWebApp" Created="8/8/2017 1:22:37 PM" CreatedBy="eliranba" Guid="7a5611c3-dd98-40ed-917e-46b52e910d90" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Version="0" />
+</TargetApplications>
+
+<Variables>
+</Variables>
+</GingerCore.BusinessFlow>

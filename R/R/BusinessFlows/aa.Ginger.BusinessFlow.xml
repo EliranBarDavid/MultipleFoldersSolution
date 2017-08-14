@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Ginger Repository Item created with version: 2.4.0.0-->
+<GingerCore.BusinessFlow Active="False" Created="6/21/2017 11:46:12 AM" CreatedBy="ELIRANBA" Description="Chamotal" EnableActivitiesVariablesDependenciesControl="False" Guid="09aa7e59-ab12-4994-9f98-cfb0d1c59edd" LastUpdate="8/8/2017 1:19:01 PM" LastUpdateBy="eliranba" Name="aa" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Version="84">
+<Activities>
+<GingerCore.Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="Activity 1" AutomationStatus="Development" Created="6/21/2017 11:46:12 AM" CreatedBy="ELIRANBA" EnableActionsVariablesDependenciesControl="False" Guid="3eee7273-018e-4531-9084-b1a107e60465" LastUpdate="1/1/0001 12:00:00 AM" Mandatory="False" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" TargetApplication="MyWebApp" Version="0">
+<Acts>
+</Acts>
+
+<Tags>
+</Tags>
+
+<Variables>
+</Variables>
+
+<VariablesDependencies>
+</VariablesDependencies>
+</GingerCore.Activity>
+<GingerCore.Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="dd" AutomationStatus="Development" Created="6/25/2017 6:11:26 PM" CreatedBy="ELIRANBA" EnableActionsVariablesDependenciesControl="False" Guid="28a05db7-37db-4e5d-96b6-7d7110df776b" LastUpdate="1/1/0001 12:00:00 AM" Mandatory="False" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" TargetApplication="MyWebApp" Version="0">
+<Acts>
+</Acts>
+
+<Tags>
+</Tags>
+
+<Variables>
+</Variables>
+
+<VariablesDependencies>
+</VariablesDependencies>
+</GingerCore.Activity>
+<GingerCore.Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="DalBayov" AutomationStatus="Development" Created="7/9/2017 10:53:45 AM" CreatedBy="ELIRANBA" EnableActionsVariablesDependenciesControl="False" Guid="1dab779f-717a-4de9-b3be-e583c6772ff9" LastUpdate="1/1/0001 12:00:00 AM" Mandatory="False" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" TargetApplication="MyWebApp" Version="0">
+<Acts>
+</Acts>
+
+<Tags>
+</Tags>
+
+<Variables>
+</Variables>
+
+<VariablesDependencies>
+</VariablesDependencies>
+</GingerCore.Activity>
+</Activities>
+
+<ActivitiesGroups>
+</ActivitiesGroups>
+
+<Tags>
+</Tags>
+
+<TargetApplications>
+<GingerCore.Platforms.TargetApplication AppName="MyWebApp" Created="6/21/2017 11:46:15 AM" CreatedBy="ELIRANBA" Guid="11e157ed-3ca1-4a06-b22b-58c2ace796d2" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Version="0" />
+</TargetApplications>
+
+<Variables>
+</Variables>
+</GingerCore.BusinessFlow>

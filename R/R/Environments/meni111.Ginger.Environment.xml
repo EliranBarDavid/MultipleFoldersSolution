@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Ginger Repository Item created with version: 2.4.0.0-->
+<GingerCore.Environments.ProjEnvironment Active="False" Created="7/10/2017 12:39:18 PM" CreatedBy="menik" Guid="25cee1e3-7674-4680-bfb2-76f07dfe1412" LastUpdate="7/10/2017 12:39:32 PM" LastUpdateBy="menik" Name="meni111" ParentGuid="00000000-0000-0000-0000-000000000000" Version="1">
+<Applications>
+<GingerCore.Environments.EnvApplication Active="True" Created="7/10/2017 12:39:29 PM" CreatedBy="menik" Guid="8381f35f-0a66-46e9-a93e-09ed316fbd04" LastUpdate="1/1/0001 12:00:00 AM" Name="MyWebApp" ParentGuid="00000000-0000-0000-0000-000000000000" Version="0">
+<Dbs>
+</Dbs>
+
+<GeneralParams>
+</GeneralParams>
+
+<LoginUsers>
+</LoginUsers>
+
+<UnixServers>
+</UnixServers>
+</GingerCore.Environments.EnvApplication>
+</Applications>
+
+<Tags>
+</Tags>
+</GingerCore.Environments.ProjEnvironment>
