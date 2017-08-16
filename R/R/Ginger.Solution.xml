@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--Ginger Repository Item created with version: 2.4.0.0-->
-<Ginger.Environments.Solution AlmType="QC" Created="6/15/2017 3:41:52 PM" CreatedBy="ELIRANBA" Guid="1b9462a1-6363-4642-b69e-e1d1abc0bfc5" LastBusinessFlowFileName="C:\repos\EliranDemo\\BusinessFlows\aa.Ginger.BusinessFlow.xml" LastUpdate="8/8/2017 1:23:14 PM" LastUpdateBy="eliranba" Name="EliranDemo" ParentGuid="00000000-0000-0000-0000-000000000000" ShowIndicationkForLockedItems="False" Version="9">
+<Ginger.Environments.Solution AlmType="QC" Created="6/15/2017 3:41:52 PM" CreatedBy="ELIRANBA" Guid="1b9462a1-6363-4642-b69e-e1d1abc0bfc5" LastBusinessFlowFileName="C:\Repos2\MultipleFoldersSolution\R\R\\BusinessFlows\aa.Ginger.BusinessFlow.xml" LastUpdate="8/16/2017 2:46:25 PM" LastUpdateBy="eliranba" Name="EliranDemo" ParentGuid="00000000-0000-0000-0000-000000000000" ShowIndicationkForLockedItems="False" Version="10">
 <ApplicationPlatforms>
 <GingerCore.Platforms.ApplicationPlatform AppName="MyWebApp" CoreGUID="00000000-0000-0000-0000-000000000000" Created="6/15/2017 3:42:06 PM" CreatedBy="ELIRANBA" Guid="203214a9-7f7f-4a12-8445-7c2c08e1a027" GUID="00000000-0000-0000-0000-000000000000" LastUpdate="1/1/0001 12:00:00 AM" ParentGuid="00000000-0000-0000-0000-000000000000" Platform="Web" Version="0" />
 </ApplicationPlatforms>
