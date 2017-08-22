@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--Ginger Repository Item created with version: 2.4.0.0-->
+<<<<<<< HEAD
 <GingerCore.BusinessFlow Active="False" Created="6/21/2017 12:28:54 PM" CreatedBy="ELIRANBA" Description="VVVVVVVVVVVVVVV" EnableActivitiesVariablesDependenciesControl="False" Guid="5726256a-c16c-4856-9c28-169a51aceca4" LastUpdate="8/22/2017 8:33:50 AM" LastUpdateBy="eliranba" Name="as" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Version="24">
+=======
+<GingerCore.BusinessFlow Active="False" Created="6/21/2017 12:28:54 PM" CreatedBy="ELIRANBA" Description="AAAAAAAAAA" EnableActivitiesVariablesDependenciesControl="False" Guid="5726256a-c16c-4856-9c28-169a51aceca4" LastUpdate="8/22/2017 8:20:22 AM" LastUpdateBy="eliranba" Name="as" ParentGuid="00000000-0000-0000-0000-000000000000" Source="Ginger" Version="23">
+>>>>>>> master
 <Activities>
 <GingerCore.Activity ActionRunOption="StopActionsRunOnFailure" Active="True" ActivityName="Activity 1" AutomationStatus="Development" Created="6/21/2017 12:28:54 PM" CreatedBy="ELIRANBA" EnableActionsVariablesDependenciesControl="False" Guid="79b672ce-fe7f-4ebc-9518-cdfa2e40b601" LastUpdate="1/1/0001 12:00:00 AM" Mandatory="False" ParentGuid="00000000-0000-0000-0000-000000000000" PercentAutomated="0%" TargetApplication="MyWebApp" Version="0">
 <Acts>
